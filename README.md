@@ -8,6 +8,7 @@ Commercial antivirus solutions provide a solid line of defence for small office 
 - Wazuh with OpenSearch
 - VirusTotal
 - ClamAV
+- Linux Malware Detect
 - YARA
 - Suricata
 - Zeek
