@@ -1,4 +1,4 @@
-# Open-Source Linux SIEM/EDR
+# Linux Open-Source SIEM/EDR
 
 ## Summary
 
